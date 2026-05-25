@@ -1,0 +1,1 @@
+{"name":"Local: E_BitMaps","url":"d:\\Documentos\\GitHub\\Algoritmos-Avanzados\\E_BitMaps.cpp","tests":[{"id":1777635275643,"input":"B 3 4\n001000011011\nD 2 3\nDD10111\n#","output":"D 3 4\nD0D1001D101\nB 2 3\n101111"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documentos\\GitHub\\Algoritmos-Avanzados\\E_BitMaps.cpp","group":"local","local":true}
