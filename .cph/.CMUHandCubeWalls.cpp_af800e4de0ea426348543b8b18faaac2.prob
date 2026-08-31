@@ -1,1 +1,0 @@
-{"name":"Local: CMUHandCubeWalls","url":"d:\\Documentos\\GitHub\\Algoritmos-Avanzados\\CMUHandCubeWalls.cpp","tests":[{"id":1780782244828,"input":"13 5\n2 4 5 5 4 3 2 2 2 3 3 2 1\n3 4 4 3 2\n","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documentos\\GitHub\\Algoritmos-Avanzados\\CMUHandCubeWalls.cpp","group":"local","local":true}

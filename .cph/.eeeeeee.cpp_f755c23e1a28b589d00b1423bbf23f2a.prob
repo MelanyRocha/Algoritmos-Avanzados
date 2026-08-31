@@ -1,1 +1,0 @@
-{"name":"Local: eeeeeee","url":"d:\\Documentos\\GitHub\\Algoritmos-Avanzados\\eeeeeee.cpp","tests":[{"id":1777761070319,"input":"B 3 4\n001000011011\nD 2 3\nDD10111\n#","output":"D 3 4\nD0D1001D101\nB 2 3\n101111"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documentos\\GitHub\\Algoritmos-Avanzados\\eeeeeee.cpp","group":"local","local":true}
