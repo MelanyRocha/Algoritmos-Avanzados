@@ -1,1 +1,0 @@
-{"name":"Local: A_Hackerman","url":"d:\\Documentos\\GitHub\\Algoritmos-Avanzados\\A_Hackerman.cpp","tests":[{"id":1775818735204,"input":"3\n2 1\n1 1\n2 2\n","output":"Alice\nAlice\nBob\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documentos\\GitHub\\Algoritmos-Avanzados\\A_Hackerman.cpp","group":"local","local":true}
